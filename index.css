@@ -1,6 +1,6 @@
-body {
+/* body {
   height:98vh;
-}
+} */
 
 .page-content {
     display:flex;
@@ -25,7 +25,7 @@ body {
     /* justify-content: center; */
     margin: 4em;
     margin-left:6%;
-    margin-bottom:12em;
+    margin-bottom:10em;
 
   }
 
@@ -58,7 +58,7 @@ body {
   }
 
   img {
-    min-width:30vw;
+    min-width:360px;
     max-width:43vw;
     height:55vh;
     margin: 0 5%;
@@ -79,7 +79,7 @@ body {
     font-family : 'Montserrat', sans-serif; 
     color: #bdbdbd;
     min-width:500px;
-    min-height: 5vh;;
+    min-height: 4vh;;
   }
 
   a {
