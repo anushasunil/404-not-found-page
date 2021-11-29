@@ -58,8 +58,8 @@
   }
 
   img {
-    min-width:360px;
-    max-width:43vw;
+    min-width:30vw;
+    max-width:75vw;
     height:55vh;
     margin: 0 5%;
   }
