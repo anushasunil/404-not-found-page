@@ -140,7 +140,7 @@
      img {
        margin-left: 0;
        margin-top: 5vh;
-       min-width: 140vw;
+       min-width: 160%;
        height:63vh;
      }
 
@@ -148,4 +148,19 @@
        min-width: 150vw;
      }
 
+   }
+
+   @media (max-width:360px){
+      img {
+        height:72vh;
+      }
+   }
+
+   @media (max-width:320px) {
+    img {
+      height:50vh;
+    }
+    footer {
+      margin-top: 17vh;
+    }
    }
