@@ -36,8 +36,8 @@
 
 ## Overview
 
-<img src="images/404-landing.png" width=400px />
-<img src="images/404-landing-mobile.png" width=78px/>
+<img src="images/404-landing.png" />
+<img src="images/404-landing-mobile.png" />
 
 
 ### Built With
@@ -55,6 +55,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [404-landing.netlify.app](https://404-landing.netlify.app/)
+- Website [anushasunilkumar.netlify.app](https://anushasunilkumar.netlify.app/)
 - GitHub [@anushasunil](https://github.com/anushasunil)
 - Twitter [@anushasunil7](https://twitter.com/anushasunil7)
