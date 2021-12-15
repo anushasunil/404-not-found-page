@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot](images/404-landing.png)
+<img src="images/404-landing.png" width=400px />
+<img src="images/404-landing-mobile.png" width=78px/>
 
 
 ### Built With
