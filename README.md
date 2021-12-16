@@ -35,9 +35,10 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-<img src="images/404-landing.png" width=400px />
-<img src="images/404-landing-mobile.png" width=78px/>
+- Desktop view <br>
+<img src="images/404-landing.png" />
+- Mobile view <br>
+<img src="images/404-landing-mobile.png"/>
 
 
 ### Built With
