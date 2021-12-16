@@ -37,9 +37,9 @@
 ## Overview
 
 - Desktop view <br>
-<img src="images/404-landing.png" />
+  <img src="images/404-landing.png" />
 - Mobile view <br>
-<img src="images/404-landing-mobile.png"/>
+  <img src="images/404-landing-mobile.png"/>
 
 ### Built With
 
